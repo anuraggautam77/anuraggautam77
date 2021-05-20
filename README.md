@@ -1,10 +1,10 @@
-###                       Hi All Welcome to my Github Profile 👋
+#                       Hi All Welcome to my Github Profile 👋
 
 ![myprofile](/myprofile.png)
 
 
 
-## Google Chrome Extension 👋
+### Google Chrome Extension 👋
  - ⚡ [Organize your browser tab](https://bit.ly/391jVrZ)
 
 <!--
