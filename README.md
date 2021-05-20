@@ -1,11 +1,13 @@
-#                       Hi All Welcome to my Github Profile 👋
+#                       Hi All Welcome to my Github Profile  :point_down: :point_down: :point_down:👋
 
 ![myprofile](/myprofile.png)
 
 
 
 ### Google Chrome Extension 👋
- - ⚡ [Organize your browser tab](https://bit.ly/391jVrZ)
+ - 🔭 [Organize your browser tab](https://bit.ly/391jVrZ)
+ - 📫 How to reach me: anuraggautam77@gmail.com
+ - 
 
 <!--
 
