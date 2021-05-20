@@ -4,11 +4,11 @@
 
 
 
-#### Google Chrome Extension 🔭
+#### 🔭 Google Chrome Extension 
  -  [Organize your browser tab](https://bit.ly/391jVrZ)
-#### How to reach me 📫
+####  📫 How to reach me
  - anuraggautam77@gmail.com
-#### My profile :man:
+#### :man: My profile 
  -  [My profile](http://anuraggautam77.github.io/)
 
 <!--
