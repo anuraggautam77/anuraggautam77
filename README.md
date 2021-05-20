@@ -7,7 +7,7 @@
 ### Google Chrome Extension 👋
  - 🔭 [Organize your browser tab](https://bit.ly/391jVrZ)
  - 📫 How to reach me: anuraggautam77@gmail.com
- - 
+ - :man: [My profile](http://anuraggautam77.github.io/)
 
 <!--
 
