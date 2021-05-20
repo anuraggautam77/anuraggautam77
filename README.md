@@ -1,4 +1,4 @@
-## Hi all 👋 !! Welcome to my Github Profile :point_down:
+## Hi all 👋 !! Welcome to my Github :point_down:
 
 ![myprofile](/myprofile.png)
 
