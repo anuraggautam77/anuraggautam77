@@ -8,8 +8,8 @@
  -  [Organize your browser tab](https://bit.ly/391jVrZ)
 ####  📫 How to reach me
  - anuraggautam77@gmail.com
-#### :man: My profile 
- -  [My profile](http://anuraggautam77.github.io/)
+#### :man: Profile 
+ -  [My Profile](http://anuraggautam77.github.io/)
 
 <!--
 
