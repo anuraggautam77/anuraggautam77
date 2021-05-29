@@ -4,7 +4,7 @@
 
 
 
-#### 🔭 Google Chrome Extension (https://anuraggautam77.github.io/img/googleext.jpeg)
+#### 🔭 Google Chrome Extension  
  -  [Organize your browser tab](https://bit.ly/391jVrZ)
 ####  📫 How to reach me
  - anuraggautam77@gmail.com
