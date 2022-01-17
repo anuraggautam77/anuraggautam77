@@ -5,6 +5,10 @@
 #### ⚡ My Github Stats:
 ![Anurag Github stats](https://github-readme-stats.vercel.app/api?username=anuraggautam77&show_icons=true&theme=onedark)
 
+#### ⚡ Most Used Languages :
+![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraggautam77&layout=compact)
+
+
 #### 🔭 Google Chrome Extension  
  -  [Organize your browser tab](https://bit.ly/391jVrZ)
 ####  📫 How to reach me
