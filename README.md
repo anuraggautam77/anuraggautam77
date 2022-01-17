@@ -3,7 +3,7 @@
 
 
 #### ⚡ My Github Stats:
-![Anurag Github stats](https://github-readme-stats.vercel.app/api?username=anuraggautam77&show_icons=true&theme=onedark) ![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraggautam77&layout=compact)
+![Anurag Github stats](https://github-readme-stats.vercel.app/api?username=anuraggautam77&show_icons=true&theme=onedark)  #### ⚡ My Github Stats: ![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraggautam77&layout=compact)
 
 
 #### 🔭 Google Chrome Extension  
