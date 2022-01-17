@@ -2,7 +2,7 @@
 ![myprofile](/myprofile.png)
 
 
-
+#### ⚡ My Github Stats:
 ![Anurag Github stats](https://github-readme-stats.vercel.app/api?username=anuraggautam77&show_icons=true&theme=onedark)
 
 #### 🔭 Google Chrome Extension  
