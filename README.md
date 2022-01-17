@@ -1,8 +1,9 @@
 ## Hi all 👋 !! Welcome to my Github :point_down:
-
 ![myprofile](/myprofile.png)
 
 
+
+![Anurag Github stats](https://github-readme-stats.vercel.app/api?username=anuraggautam77&show_icons=true&theme=onedark)
 
 #### 🔭 Google Chrome Extension  
  -  [Organize your browser tab](https://bit.ly/391jVrZ)
