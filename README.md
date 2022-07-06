@@ -24,6 +24,7 @@ However, most of all, I enjoy implementing core configuration logic for a module
 
 #### 🔭 Google Chrome Extension  
  -  [Organize your browser tab](https://bit.ly/391jVrZ)
+ -  [Timezone Clocks](https://chrome.google.com/webstore/detail/timezone-clocks/fkbjcjdjjklgepfkbfoaghpakbkbmnak)
 #### 📫 How to reach me
  - anuraggautam77@gmail.com
 #### :man: Profile 
