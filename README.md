@@ -22,9 +22,13 @@ However, most of all, I enjoy implementing core configuration logic for a module
 #### ⚡ Languages Used: 
 ![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraggautam77&layout=compact)
 
-#### 🔭 Google Chrome Extensions  
- -  [Organize your browser tab](https://bit.ly/391jVrZ)
- -  [Timezone Clocks](https://chrome.google.com/webstore/detail/timezone-clocks/fkbjcjdjjklgepfkbfoaghpakbkbmnak)
+#### 🔭 Organize your browser tab Extensions  
+ -  [Chrome Extension](https://bit.ly/391jVrZ)
+#### Timezone Clocks Dashboard Extensions
+ -  [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/timezone-clocks-dashboard/nahkomildeojakapedbpmigjcgjbfifm)
+ -  [Chrome Extension](https://chrome.google.com/webstore/detail/timezone-clocks/fkbjcjdjjklgepfkbfoaghpakbkbmnak)
+ -  [Firefox Addon Url](https://addons.mozilla.org/en-US/firefox/addon/timezone-clock-dashoard)
+
 #### 📫 How to reach me
  - anuraggautam77@gmail.com
 #### :man: Profile 
