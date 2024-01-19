@@ -4,7 +4,7 @@
 
 I am Full Stack Web Developer with extensive experience in design and implementation of user-friendly and web-based applications. Always looking for working on some cool apps and with a great team. where I can learn and share my knowledge with them. Expertise in Reactjs. Good knowledge of scalable and reusable UI components and Front-end architecture.
 
-- [X] *Solid understanding of React principles; - Skilled in Node.js, Express, ES6 and Event-loop.*
+- [X] *Solid understanding of Javascript Full stack ; - Skilled in Node.js, Express, ES6 ,TypeScript, Reach, Vue2 + Vuex,  Vue3 + Pinia, Browser extensions.*
 
 - [X] 🔭 Always eager to learn new technologies currently focus on Google Flutter, Graph QL and Graph DB.
 
