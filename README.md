@@ -11,11 +11,6 @@ I am Full Stack Web Developer with extensive experience in design and implementa
 - [X] Passionate about building products and services using technologies and frameworks that can provide a better user experience and interaction.
 However, most of all, I enjoy implementing core configuration logic for a module that scales over an extended period of time.
 
-
-
-![myprofile](/myprofile.png)
-
-
 #### ⚡ My Github Stats:
 ![Anurag Github stats](https://github-readme-stats.vercel.app/api?username=anuraggautam77&show_icons=true&theme=onedark) 
 
