@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Anurag
 
 🚀 **Full Stack Developer** | 🌐 **Web & Mobile Engineer** | 🤖 **AI + RAG Integrations**
 
