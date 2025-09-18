@@ -1,9 +1,10 @@
-# 👋 Hi, I'm Anurag Gautam
+# 👋 Hi, I'm [Your Name]
 
 🚀 **Full Stack Developer** | 🌐 **Web & Mobile Engineer** | 🤖 **AI + RAG Integrations**
 
-I specialize in building **scalable, performant, and user-focused applications** across **frontend, backend, cloud, and AI ecosystems**.  
-With experience in **leading development teams** and architecting enterprise-grade solutions, I focus on **clean design, observability, and collaboration**.  
+I’m a **passionate and versatile developer** who loves solving complex problems and delivering impactful solutions.  
+My work spans **scalable web apps, hybrid mobile apps, backend systems, and AI-powered applications**.  
+With hands-on experience in both **engineering and leadership**, I enjoy building technology that is **performant, reliable, and user-focused**.  
 
 ---
 
@@ -39,5 +40,10 @@ With experience in **leading development teams** and architecting enterprise-gra
 - 📱 Developed **cross-platform apps** using **Ionic (CapacitorJS)** & **ElectronJS**.  
 - 📊 Established an **observability stack** with Grafana + Prometheus + Loki.  
 - 👥 **Led development teams**, drove architecture decisions, and mentored junior developers.  
-- 🤖 **AI-powered assistants** with **RAG pipelines, LLM embeddings & Vector DB integration**.  
+- 🤖 Delivered **AI-powered assistants** with **RAG pipelines, LLM embeddings & Vector DB integration**.  
 
+---
+
+## 📫 Connect with Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/anuraggautam77/)  
+---
