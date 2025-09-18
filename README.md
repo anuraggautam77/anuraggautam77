@@ -1,44 +1,51 @@
-### Hi All 👋 
+# 👋 Hi, I'm Anurag Gautam
 
- Welcome to my Github :point_down:
+🚀 **Full Stack Developer** | 🌐 **Web & Mobile Engineer** | 🤖 **AI + RAG Integrations**
 
-I am Full Stack Web Developer with extensive experience in design and implementation of user-friendly and web-based applications. Always looking for working on some cool apps and with a great team. where I can learn and share my knowledge with them. Expertise in Reactjs. Good knowledge of scalable and reusable UI components and Front-end architecture.
+I specialize in building **scalable, performant, and user-focused applications** across **frontend, backend, cloud, and AI ecosystems**.  
+With experience in **leading development teams** and architecting enterprise-grade solutions, I focus on **clean design, observability, and collaboration**.  
 
-- [X] Solid understanding of Javascript Full stack Development; - Skilled in Node.js, Express, ES6 ,TypeScript, Reach, Vue2 + Vuex, Vue3 + Pinia, Browser extensions and Micro frontend development pattern.
+---
 
-- [X] 🔭 Always eager to learn new technologies currently focus on Google Flutter, Golang,  GraphQL and Graph DB.
+## 🔹 Tech Expertise  
 
-- [X] Passionate about building products and services using technologies and frameworks that can provide a better user experience and interaction.
-However, most of all, I enjoy implementing core configuration logic for a module that scales over an extended period of time.
+### 💻 Frontend  
+- Vue 2/3 (Vuex, Pinia) | React.js | Micro Frontends (Module Federation)  
+- Modular UI Libraries | i18n | Accessibility (a11y)  
+- PWAs | Browser Extensions | ElectronJS | Ionic (CapacitorJS)  
 
-#### ⚡ My Github Stats:
-![Anurag Github stats](https://github-readme-stats.vercel.app/api?username=anuraggautam77&show_icons=true&theme=onedark) 
+### ⚙️ Backend & Cloud  
+- Node.js | Express.js | REST | GraphQL | **WebSockets & SSE**  
+- JWT | OAuth2 | SSO | Passport.js | JOI Validation  
+- Databases: MongoDB | PostgreSQL | Firebase Realtime DB | Neo4j  
+- Cloud: Google Cloud | Firebase | Heroku | Serverless  
 
-#### ⚡ Languages Used: 
-![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraggautam77&layout=compact)
+### 📊 Monitoring & Observability  
+- Grafana → **Dashboards for KPIs**  
+- Prometheus → **System Metrics**  
+- Loki → **Centralized Logging**  
 
-#### 🔭 Organize your browser tab Extensions  
- -  [Chrome Extension](https://bit.ly/391jVrZ)
-#### Timezone Clocks Dashboard Extensions
- -  [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/timezone-clocks-dashboard/nahkomildeojakapedbpmigjcgjbfifm)
- -  [Chrome Extension](https://chrome.google.com/webstore/detail/timezone-clocks/fkbjcjdjjklgepfkbfoaghpakbkbmnak)
- -  [Firefox Addon Url](https://addons.mozilla.org/en-US/firefox/addon/timezone-clock-dashoard)
+### 🤖 AI, RAG & Vector Databases  
+- Retrieval-Augmented Generation (**RAG**) Pipelines  
+- LangChain.js | Ollama | LLaMA 3  
+- Vector DBs: **Qdrant**  
+- Embeddings: **nomic-embed-text, OpenAI embeddings**  
 
-#### 📫 How to reach me
- - anuraggautam77@gmail.com
-#### :man: Profile 
- -  [My Profile](http://anuraggautam77.github.io/)
+---
 
-<!--
+## 👨‍💻 Highlights  
+- 🚀 Migrated **large-scale legacy apps to Vue 3** improving maintainability & performance.  
+- ⚡ Built **real-time apps with WebSockets & SSE**.  
+- 📱 Developed **cross-platform apps** using **Ionic (CapacitorJS)** & **ElectronJS**.  
+- 📊 Established an **observability stack** with Grafana + Prometheus + Loki.  
+- 👥 **Led development teams**, drove architecture decisions, and mentored junior developers.  
+- 🤖 Delivered **AI-powered assistants** with **RAG pipelines, LLM embeddings & Vector DB integration**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ... 👋
-- ⚡ Fun fact: ...
- -->
+## 📫 Connect with Me  
+- 💼 [LinkedIn](#)  
+- 🌐 [Portfolio](#)  
+- 🐦 [Twitter/X](#)  
+
+---
