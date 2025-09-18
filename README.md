@@ -39,13 +39,5 @@ With experience in **leading development teams** and architecting enterprise-gra
 - 📱 Developed **cross-platform apps** using **Ionic (CapacitorJS)** & **ElectronJS**.  
 - 📊 Established an **observability stack** with Grafana + Prometheus + Loki.  
 - 👥 **Led development teams**, drove architecture decisions, and mentored junior developers.  
-- 🤖 Delivered **AI-powered assistants** with **RAG pipelines, LLM embeddings & Vector DB integration**.  
+- 🤖 **AI-powered assistants** with **RAG pipelines, LLM embeddings & Vector DB integration**.  
 
----
-
-## 📫 Connect with Me  
-- 💼 [LinkedIn](#)  
-- 🌐 [Portfolio](#)  
-- 🐦 [Twitter/X](#)  
-
----
